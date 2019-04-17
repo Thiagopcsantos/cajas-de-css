@@ -1,0 +1,49 @@
+.bar{
+    background: red;
+    padding:30px;
+}
+.box1{
+    margin-top: 50px;
+    background: blue;
+    padding: 60px;
+}
+.box2{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin-top: 70px;
+    padding-left: 50px;
+}
+.box3{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin-top: 70px;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+.box4{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background: green;
+    margin-top: 70px;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+.box0{
+    display: inline-block;
+    margin-left: 250px;
+    
+}
+.boxfooter{
+    background: yellow;
+    padding-bottom: 50PX;
+    margin-top: 50px;
+}
+body{
+    padding:0;
+    margin:0;
+}
